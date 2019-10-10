@@ -1,0 +1,103 @@
+G:\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanNhauFA\bin\Debug\QuanLyNhaHang_QuanAn.exe.config
+G:\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\bin\Debug\QuanLyNhaHang_QuanAn.exe.config
+G:\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\bin\Debug\QuanLyNhaHang_QuanAn.exe
+G:\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\bin\Debug\QuanLyNhaHang_QuanAn.pdb
+G:\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\bin\Debug\Microsoft.ReportViewer.Common.dll
+G:\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+G:\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+G:\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.csprojResolveAssemblyReference.cache
+G:\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.Properties.Resources.resources
+G:\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.Views.frmMain.resources
+G:\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.Views.frmThanhToan.resources
+G:\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.Views.uctBan.resources
+G:\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.Views.uctDanhSachTD.resources
+G:\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.Views.uctGoiMon.resources
+G:\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.Views.uctKhachHang.resources
+G:\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.Views.uctKhuVuc.resources
+G:\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.Views.uctLoaiThucDon.resources
+G:\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.Views.uctMonDaGoi.resources
+G:\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.Views.uctNhanVien.resources
+G:\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.Views.uctSearchNhanVien.resources
+G:\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.Views.uctThanhToan.resources
+G:\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.Views.uctThucDon.resources
+G:\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.csproj.GenerateResource.Cache
+G:\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.exe
+G:\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.pdb
+D:\nienluan\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\bin\Debug\QuanLyNhaHang_QuanAn.exe.config
+D:\nienluan\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.exe
+D:\nienluan\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.pdb
+D:\nienluan\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\bin\Debug\QuanLyNhaHang_QuanAn.exe
+D:\nienluan\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\bin\Debug\QuanLyNhaHang_QuanAn.pdb
+D:\nienluan\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\nienluan\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\nienluan\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\nienluan\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\nienluan\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.csprojResolveAssemblyReference.cache
+D:\nienluan\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.Properties.Resources.resources
+D:\nienluan\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.Views.frmMain.resources
+D:\nienluan\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.Views.frmThanhToan.resources
+D:\nienluan\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.Views.uctBan.resources
+D:\nienluan\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.Views.uctDanhSachTD.resources
+D:\nienluan\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.Views.uctGoiMon.resources
+D:\nienluan\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.Views.uctKhachHang.resources
+D:\nienluan\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.Views.uctKhuVuc.resources
+D:\nienluan\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.Views.uctLoaiThucDon.resources
+D:\nienluan\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.Views.uctMonDaGoi.resources
+D:\nienluan\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.Views.uctNhanVien.resources
+D:\nienluan\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.Views.uctSearchNhanVien.resources
+D:\nienluan\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.Views.uctThanhToan.resources
+D:\nienluan\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.Views.uctThucDon.resources
+D:\nienluan\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.csproj.GenerateResource.Cache
+H:\nienluan\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\bin\Debug\QuanLyNhaHang_QuanAn.exe.config
+H:\nienluan\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.exe
+H:\nienluan\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.pdb
+H:\nienluan\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\bin\Debug\QuanLyNhaHang_QuanAn.exe
+H:\nienluan\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\bin\Debug\QuanLyNhaHang_QuanAn.pdb
+H:\nienluan\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\bin\Debug\Microsoft.ReportViewer.Common.dll
+H:\nienluan\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+H:\nienluan\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+H:\nienluan\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+H:\nienluan\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.csprojResolveAssemblyReference.cache
+H:\nienluan\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.Properties.Resources.resources
+H:\nienluan\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.Views.frmMain.resources
+H:\nienluan\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.Views.frmThanhToan.resources
+H:\nienluan\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.Views.uctBan.resources
+H:\nienluan\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.Views.uctDanhSachTD.resources
+H:\nienluan\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.Views.uctGoiMon.resources
+H:\nienluan\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.Views.uctKhachHang.resources
+H:\nienluan\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.Views.uctKhuVuc.resources
+H:\nienluan\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.Views.uctLoaiThucDon.resources
+H:\nienluan\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.Views.uctMonDaGoi.resources
+H:\nienluan\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.Views.uctNhanVien.resources
+H:\nienluan\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.Views.uctSearchNhanVien.resources
+H:\nienluan\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.Views.uctThanhToan.resources
+H:\nienluan\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.Views.uctThucDon.resources
+H:\nienluan\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.csproj.GenerateResource.Cache
+E:\Tài Liệu Học Tập\Kiểm định phần mềm\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\bin\Debug\QuanLyNhaHang_QuanAn.exe.config
+E:\Tài Liệu Học Tập\Kiểm định phần mềm\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\bin\Debug\QuanLyNhaHang_QuanAn.exe
+E:\Tài Liệu Học Tập\Kiểm định phần mềm\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\bin\Debug\QuanLyNhaHang_QuanAn.pdb
+E:\Tài Liệu Học Tập\Kiểm định phần mềm\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Tài Liệu Học Tập\Kiểm định phần mềm\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Tài Liệu Học Tập\Kiểm định phần mềm\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Tài Liệu Học Tập\Kiểm định phần mềm\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Tài Liệu Học Tập\Kiểm định phần mềm\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.csprojAssemblyReference.cache
+E:\Tài Liệu Học Tập\Kiểm định phần mềm\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.Properties.Resources.resources
+E:\Tài Liệu Học Tập\Kiểm định phần mềm\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.Views.frmMain.resources
+E:\Tài Liệu Học Tập\Kiểm định phần mềm\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.Views.frmThanhToan.resources
+E:\Tài Liệu Học Tập\Kiểm định phần mềm\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.Views.uctBan.resources
+E:\Tài Liệu Học Tập\Kiểm định phần mềm\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.Views.uctDanhSachTD.resources
+E:\Tài Liệu Học Tập\Kiểm định phần mềm\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.Views.uctGoiMon.resources
+E:\Tài Liệu Học Tập\Kiểm định phần mềm\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.Views.uctKhachHang.resources
+E:\Tài Liệu Học Tập\Kiểm định phần mềm\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.Views.uctKhuVuc.resources
+E:\Tài Liệu Học Tập\Kiểm định phần mềm\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.Views.uctLoaiThucDon.resources
+E:\Tài Liệu Học Tập\Kiểm định phần mềm\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.Views.uctMonDaGoi.resources
+E:\Tài Liệu Học Tập\Kiểm định phần mềm\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.Views.uctNhanVien.resources
+E:\Tài Liệu Học Tập\Kiểm định phần mềm\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.Views.uctSearchNhanVien.resources
+E:\Tài Liệu Học Tập\Kiểm định phần mềm\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.Views.uctThanhToan.resources
+E:\Tài Liệu Học Tập\Kiểm định phần mềm\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.Views.uctThucDon.resources
+E:\Tài Liệu Học Tập\Kiểm định phần mềm\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.csproj.GenerateResource.cache
+E:\Tài Liệu Học Tập\Kiểm định phần mềm\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.csproj.CoreCompileInputs.cache
+E:\Tài Liệu Học Tập\Kiểm định phần mềm\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.csproj.CopyComplete
+E:\Tài Liệu Học Tập\Kiểm định phần mềm\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.exe
+E:\Tài Liệu Học Tập\Kiểm định phần mềm\QuanLyNhaHang_QuanAn\QuanLyNhaHang_QuanAn\obj\Debug\QuanLyNhaHang_QuanAn.pdb
